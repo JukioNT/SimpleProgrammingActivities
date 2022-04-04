@@ -1,0 +1,6 @@
+
+*.json
+*.ipch
+*.sqlite
+*.db
+.vs/SimpleProgrammingActivities/v17/.suo
